@@ -1,16 +1,16 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
+  Portfolio Website<br/>
   <a href="" target="_blank"></a>
 </h2>
-<div align="center">
+<!-- <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
+</div> -->
 
 <br/>
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [imtyaz-17](). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [imtyaz-17](https://github.com/imtyaz-17). Thanks!
 
 ## Built With
 
@@ -23,7 +23,6 @@ This project was built using these technologies.
 - Express.js
 - CSS3
 - VsCode
-- Vercel
 
 ## Features
 
